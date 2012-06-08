@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <!-- menu -->
+    <string name="plurk_functions">Plurk Functions</string>
+    <string name="must_trace_user_or_plurk">Must Trace Users or Plurks</string>
+
+    <string name="all_plurks">All Plurks</string>
+    <string name="my_plurks">My Plurks</string>
+    <string name="private_plurks">Private</string>
+    <string name="responded_plurks">Responded</string>
+    <string name="liked_and_replurked">Liked/Replurked</string> 
+    <string name="favorite">Favorite</string> 
+
+    <string name="all_plurks_unread">All Plurks(Unread)</string>
+    <string name="my_plurks_unread">My Plurks(Unread)</string>
+    <string name="private_plurks_unread">Private(Unread)</string>
+    <string name="responded_plurks_unread">Responded(Unread)</string>
+    <string name="liked_and_replurked_unread">Liked/Replurked(Unread)</string>
+
+    <string name="take_picture_and_upload">Take Picture</string>
+    <string name="share_picture_from_alnum">Upload from Album</string>
+    <string name="4plurk_team">4Plurk Team</string>
+
+    <!-- settings -->
+    <string name="revoke">Revoke 4Plurk</string>
+    <string name="logout"># Logout</string>
+    <string name="about_4plurk"># About 4Plurk</string>
+    <string name="contact_4plurk_team">Design your awesome App</string>
+
+    <!-- buttons -->
+    <string name="btn_done">Done</string>
+    <string name="btn_close">Close</string>
+    <string name="btn_back">Back</string>
+    <string name="btn_post">Post</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_reply">Reply</string>
+    <string name="btn_like">Like</string>
+    <string name="btn_mute">Mute</string>
+    <string name="btn_private">Private</string>
+    <string name="btn_trace_person">Trace</string>
+    <string name="btn_trace_plurk">Trace</string>
+    <string name="btn_unlike">Unlike</string>
+    <string name="btn_unreplurk">Unreplurk</string>
+    <string name="btn_unmute">Unmute</string>
+    <string name="btn_untrace_person">Untrace</string>
+    <string name="btn_untrace_plurk">Untrace</string>
+    <string name="btn_edit">Edit</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_mute_them">Mute</string>
+    <string name="btn_read_them">Read</string>
+
+    <!-- others -->
+    <string name="release_to_update">Release to update plurks...</string>
+    <string name="last_update_time">Last update time: </string>
+    <string name="pull_down_to_update">Pull down to update plurks...</string>
+    <string name="be_the_first_reply">No responses - be the first :)</string>
+    <string name="cancel">Cancel</string>
+    <string name="loading">Loading...</string>
+
+    <!-- qualifier -->
+    <string name="freestyle">:</string>
+    <string name="loves">loves</string>
+    <string name="likes">likes</string>
+    <string name="shares">shares</string>
+    <string name="gives">gives</string>
+    <string name="hates">hates</string>
+    <string name="wants">wants</string>
+    <string name="wishes">wishes</string>
+    <string name="needs">needs</string>
+    <string name="will">will</string>
+    <string name="hopes">hopes</string>
+    <string name="asks">asks</string>
+    <string name="has">has</string>
+    <string name="was">was</string>
+    <string name="wonders">wonders</string>
+    <string name="feels">feels</string>
+    <string name="thinks">thinks</string>
+    <string name="says">says</string>
+    <string name="is">is</string>
+</resources>

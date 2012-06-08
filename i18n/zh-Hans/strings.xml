@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <!-- menu -->
+    <string name="plurk_functions">噗浪功能</string>
+    <string name="must_trace_user_or_plurk">必追清單</string>
+
+    <string name="all_plurks">所有訊息</string>
+    <string name="my_plurks">我發表的</string>
+    <string name="private_plurks">私人訊息</string>
+    <string name="responded_plurks">回應過的</string>
+    <string name="liked_and_replurked">說讚與轉噗</string>
+    <string name="favorite">說讚與轉噗</string>
+
+    <string name="all_plurks_unread">所有訊息(未讀)</string>
+    <string name="my_plurks_unread">我發表的(未讀)</string>
+    <string name="private_plurks_unread">私人訊息(未讀)</string>
+    <string name="responded_plurks_unread">回應過的(未讀)</string>
+    <string name="liked_and_replurked_unread">說讚與轉噗(未讀)</string>
+
+    <string name="take_picture_and_upload">拍照並上傳</string>
+    <string name="share_picture_from_alnum">從相簿分享照片</string>
+    <string name="4plurk_team">4Plurk 團隊</string>
+
+    <!-- settings -->
+    <string name="revoke">我要取消對 4plurk 的授權</string>
+    <string name="logout"># 登出</string>
+    <string name="about_4plurk"># 關於 4Plurk</string>
+    <string name="contact_4plurk_team">請聯繫我們來為您製作 App 吧！</string>
+
+    <!-- buttons -->
+    <string name="btn_done">完成</string>
+    <string name="btn_close">關閉</string>
+    <string name="btn_back">返回</string>
+    <string name="btn_post">發表</string>
+    <string name="btn_cancel">取消</string>
+    <string name="btn_reply">回噗</string>
+    <string name="btn_like">讚</string>
+    <string name="btn_mute">消音</string>
+    <string name="btn_private">私噗</string>
+    <string name="btn_trace_person">追人</string>
+    <string name="btn_trace_plurk">追噗</string>
+    <string name="btn_unlike">收回</string>
+    <string name="btn_unreplurk">收回</string>
+    <string name="btn_unmute">恢復</string>
+    <string name="btn_untrace_person">不追</string>
+    <string name="btn_untrace_plurk">不追</string>
+    <string name="btn_edit">編輯</string>
+    <string name="btn_delete">刪除</string>
+    <string name="btn_mute_them">消波塊</string>
+    <string name="btn_read_them">放大絕</string>
+
+    <!-- others -->
+    <string name="release_to_update">放開螢幕以更新...</string>
+    <string name="last_update_time">最新更新時間：</string>
+    <string name="pull_down_to_update">下拉螢幕以更新...</string>
+    <string name="be_the_first_reply">還沒有人回應，趕快來搶頭香！</string>
+    <string name="cancel">取消</string>
+    <string name="loading">載入中...</string>
+
+    <!-- qualifier -->
+    <string name="freestyle">:</string>
+    <string name="loves">愛</string>
+    <string name="likes">喜歡</string>
+    <string name="shares">分享</string>
+    <string name="gives">給</string>
+    <string name="hates">討厭</string>
+    <string name="wants">想要</string>
+    <string name="wishes">期待</string>
+    <string name="needs">需要</string>
+    <string name="will">打算</string>
+    <string name="hopes">希望</string>
+    <string name="asks">問</string>
+    <string name="has">已經</string>
+    <string name="was">曾經</string>
+    <string name="wonders">好奇</string>
+    <string name="feels">覺得</string>
+    <string name="thinks">想</string>
+    <string name="says">說</string>
+    <string name="is">正在</string>
+</resources>
