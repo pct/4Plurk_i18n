@@ -18,7 +18,7 @@
     <string name="liked_and_replurked_unread">お気に入り(未読)</string>
 
     <string name="take_picture_and_upload">写真を撮る</string>
-    <string name="share_picture_from_alnum">アルバムから共有します</string>
+    <string name="share_picture_from_alnum">アルバムから共有する</string>
     <string name="4plurk_team">4Plurk チーム</string>
 
     <!-- settings -->
@@ -31,7 +31,7 @@
     <string name="btn_done">完成</string>
     <string name="btn_close">閉じる</string>
     <string name="btn_back">戻る</string>
-    <string name="btn_post">投稿する</string>
+    <string name="btn_post">投稿</string>
     <string name="btn_cancel">キャンセル</string>
     <string name="btn_reply">コメント</string>
     <string name="btn_like">好き</string>
