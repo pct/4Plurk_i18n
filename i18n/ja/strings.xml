@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <!-- menu -->
+    <string name="plurk_functions">機能</string>
+    <string name="must_trace_user_or_plurk">お気に入るリスト</string>
+
+    <string name="all_plurks">すべて</string>
+    <string name="my_plurks">マイPlurks</string>
+    <string name="private_plurks">プライベート</string>
+    <string name="responded_plurks">返信したもの</string>
+    <string name="liked_and_replurked">Liked＆Replurked</string>
+    <string name="favorite">お気に入り</string>
+
+    <string name="all_plurks_unread">すべて(未読)</string>
+    <string name="my_plurks_unread">マイPlurks(未読)</string>
+    <string name="private_plurks_unread">プライベート(未読)</string>
+    <string name="responded_plurks_unread">返信したもの(未読)</string>
+    <string name="liked_and_replurked_unread">お気に入り(未読)</string>
+
+    <string name="take_picture_and_upload">写真を撮る</string>
+    <string name="share_picture_from_alnum">アルバムから共有します</string>
+    <string name="4plurk_team">4Plurk チーム</string>
+
+    <!-- settings -->
+    <string name="revoke">4plurk に許可しない</string>
+    <string name="logout"># ログアウト</string>
+    <string name="about_4plurk">#4Plurkついて</string>
+    <string name="contact_4plurk_team">どうぞ ご利用ください！</string>
+
+    <!-- buttons -->
+    <string name="btn_done">完成</string>
+    <string name="btn_close">閉じる</string>
+    <string name="btn_back">戻る</string>
+    <string name="btn_post">投稿する</string>
+    <string name="btn_cancel">キャンセル</string>
+    <string name="btn_reply">コメント</string>
+    <string name="btn_like">好き</string>
+    <string name="btn_mute">ミュート</string>
+    <string name="btn_private">プライベートのみ</string>
+    <string name="btn_trace_person">加える</string>
+    <string name="btn_trace_plurk">注目する</string>
+    <string name="btn_unlike">Unlike</string>
+    <string name="btn_unreplurk">Unreplurk</string>
+    <string name="btn_unmute">恢復</string>
+    <string name="btn_untrace_person">解除する</string>
+    <string name="btn_untrace_plurk">注目しない</string>
+    <string name="btn_edit">編集</string>
+    <string name="btn_delete">削除</string>
+    <string name="btn_mute_them">すべてミュートをする</string>
+    <string name="btn_read_them">すべて既読にする</string>
+
+    <!-- others -->
+    <string name="release_to_update">Release to Update...</string>
+    <string name="last_update_time">最後更新時間：</string>
+    <string name="pull_down_to_update">Pull down to Update...</string>
+    <string name="be_the_first_reply">コメントがない！</string>
+    <string name="cancel">キャンセル</string>
+    <string name="loading">ローディング...</string>
+
+    <!-- qualifier -->
+    <string name="freestyle">:</string>
+    <string name="loves">愛する</string>
+    <string name="likes">好き</string>
+    <string name="shares">共有</string>
+    <string name="gives">あげる</string>
+    <string name="hates">嫌い</string>
+    <string name="wants">欲しい</string>
+    <string name="wishes">望む</string>
+    <string name="needs">必要とする</string>
+    <string name="will">ぜひ</string>
+    <string name="hopes">願う</string>
+    <string name="asks">尋ねる</string>
+    <string name="has">持つ</string>
+    <string name="was">でした</string>
+    <string name="wonders">不思議に思う</string>
+    <string name="feels">感じる</string>
+    <string name="thinks">考える</string>
+    <string name="says">話す</string>
+    <string name="is">です</string>
+</resources>
