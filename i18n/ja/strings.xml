@@ -2,7 +2,7 @@
 <resources>
     <!-- menu -->
     <string name="plurk_functions">機能</string>
-    <string name="must_trace_user_or_plurk">お気に入るリスト</string>
+    <string name="must_trace_user_or_plurk">注目リスト</string>
 
     <string name="all_plurks">すべて</string>
     <string name="my_plurks">マイPlurks</string>
@@ -24,7 +24,7 @@
     <!-- settings -->
     <string name="revoke">4plurk に許可しない</string>
     <string name="logout"># ログアウト</string>
-    <string name="about_4plurk">#4Plurkついて</string>
+    <string name="about_4plurk">#4Plurkについて</string>
     <string name="contact_4plurk_team">どうぞ ご利用ください！</string>
 
     <!-- buttons -->
@@ -34,16 +34,16 @@
     <string name="btn_post">投稿</string>
     <string name="btn_cancel">キャンセル</string>
     <string name="btn_reply">コメント</string>
-    <string name="btn_like">好き</string>
+    <string name="btn_like">素敵!</string>
     <string name="btn_mute">ミュート</string>
     <string name="btn_private">プライベートのみ</string>
-    <string name="btn_trace_person">加える</string>
-    <string name="btn_trace_plurk">注目する</string>
+    <string name="btn_trace_person">人注目</string>
+    <string name="btn_trace_plurk">文注目</string>
     <string name="btn_unlike">Unlike</string>
     <string name="btn_unreplurk">Unreplurk</string>
     <string name="btn_unmute">恢復</string>
     <string name="btn_untrace_person">解除する</string>
-    <string name="btn_untrace_plurk">注目しない</string>
+    <string name="btn_untrace_plurk">解除する</string>
     <string name="btn_edit">編集</string>
     <string name="btn_delete">削除</string>
     <string name="btn_mute_them">すべてミュートをする</string>
@@ -55,7 +55,7 @@
     <string name="pull_down_to_update">Pull down to Update...</string>
     <string name="be_the_first_reply">コメントがない！</string>
     <string name="cancel">キャンセル</string>
-    <string name="loading">ローディング...</string>
+    <string name="loading">読み込み中...</string>
 
     <!-- qualifier -->
     <string name="freestyle">:</string>
